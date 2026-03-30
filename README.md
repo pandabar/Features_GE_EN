@@ -1,6 +1,6 @@
 # Features project
 
-This is part of an ongoing research project where I wanted to know how English speakers perceive the /y-u/ contrast in German (e.g. Bluten/Blüten). The experient has two tasks: discrimination, where listeners must listen to two words and need to decide if they are the same or different, and identification, where listeners need to click on a picture according to the word that they heard.
+This is part of an ongoing research project where I wanted to know how English speakers perceive the /y-u/ contrast in German (e.g. Bluten/Blüten). The experiment has two tasks: discrimination, where listeners must listen to two words and need to decide if they are the same or different, and identification, where listeners need to click on a picture according to the word that they heard.
 
 This experiment was hosted on Pavlovia in 2024, but can be run locally -the relevant bits that connected with Pavlovia were commented out.
 
