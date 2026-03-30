@@ -1,0 +1,5 @@
+GITHUB APP API ACCESS
+
+Client ID: Ov23lihsAOp4XazzGcXP
+
+Client secret: 2d4480075e59e3251e5e7cb2ad47b6789d0c4cba
