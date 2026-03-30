@@ -1,0 +1,83 @@
+---
+title: "Redeploying L1 English features to L2 German" 
+subtitle: "Acquiring the /y - u/ distinction in perception"
+date: December 9, 2024
+date-format: long
+author: Fernanda Barrientos
+include-in-header: 
+  text: |
+    <style>
+    .custom-small table {
+      font-size: .70em
+    }
+    </style>
+    <style>
+    .reveal .slides .slide h1 {
+    font-size: 2em;
+    }
+    </style>
+    <style>
+    .reveal .slides section ul li {
+    font-size: 18pt;
+    }
+    .reveal .slides section ul li li li {
+    font-size: 18pt;
+    }
+    </style>
+    <style>
+    #title-slide .title {
+    font-size: 2em; 
+    }
+    </style>
+format:
+  revealjs:
+    slide-level: 1
+    incremental: false
+    theme: simple
+    smaller: true
+    link-external-icon: true
+footer: "Universität Konstanz | Redeploying L1 English features to L2 German | Barrientos"
+pdf:
+  pdf-engine: weasyprint
+from: markdown+emoji
+---
+
+# Features in L2 phonology
+
+What happens at a more abstract level?
+
+-   Brown (1998, 2000): L2 learning as L1-mediated access to UG
+-   We have no chance to learn features that are no in the L1 grammar
+-   BUT: We can reuse existing features from the L1 in order to create new L2 representations. However:
+    -   If the feature is present but does not lead to contrast by itself, i.e. segments are [**underspecified**]{style="color:#C70039"} (Avery & Rice 1989), it will not be available for the L2
+        -   xtra bullet
+-   Archibald (2005, 2009)
+    -   Features may be "redeployed" from the L1 into the L2, but this is more likely to happen when the perceptual cue is salient
+-   Hancin-Bhatt (1994): Reusing an L1 feature to form new L2 categories will depend on the feature's [prominence]{style="color:#C70039"}: the more segments are specified for it, the better
+
+# test
+:::: {.columns}
+
+:::{.column width="45%}
+
+::: custom-small
+
+|Cont1 |Cont2 | $\beta$| SE |   z|   p|
+|------|------|-------:|---:|---:|---:|
+|/i-e/ | /u-i/ | -2.15| 0.53|  -4.01| 0.0003|
+|/i-e/ | <span style="background-color: #00BFC4">/u-y/</span> |  1.30| 0.42|   3.14| 0.0094|
+|/i-e/ | /y-i/ | -1.56| 0.48|  -3.22| 0.0071|
+|/u-i/ | <span style="background-color: #00BFC4">/u-y/</span> |  3.45| 0.49|  7.01| <.0001|
+|/u-i/ | /y-i/ |  0.59| 0.55|  1.08| 0.7031|
+|<span style="background-color: #00BFC4">/u-y/</span> | /y-i/ | -2.86| 0.44| -6.56| <.0001|
+
+:::
+
+:::
+
+:::{.column width= "55%"}
+
+- srgaoeb
+:::
+
+::::

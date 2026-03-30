@@ -1,0 +1,5 @@
+"speaker_id","vowel_id","context","F1","F2","F3","F1_glide","F2_glide","F3_glide"
+"English","i",NA,333,2760,NA,NA,NA,NA
+"English","e",NA,611,2186,NA,422,2618,NA
+"German","i",NA,329,2316,NA,NA,NA,NA
+"German","e",NA,431,2241,NA,NA,NA,NA
